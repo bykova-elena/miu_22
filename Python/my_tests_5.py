@@ -12,7 +12,7 @@ from selenium.webdriver.support.ui import Select
 asdasd
 
 import re
-
+йцуцйу
 
 #вы пишите свой код
 try:
