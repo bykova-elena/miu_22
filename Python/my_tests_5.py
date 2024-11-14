@@ -11,7 +11,7 @@ from selenium.webdriver.support.ui import Select
 sadasdsa
 asdasd
 
-import re
+import reqweqwe
 йцуцйу
 
 #вы пишите свой код
