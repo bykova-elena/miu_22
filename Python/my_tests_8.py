@@ -21,7 +21,7 @@ try:
     #инициализирую драйвер
     driver = webdriver.Chrome()
 
-
+htyj
     # путь до страницы
     driver.get('https://erikdark.github.io/QA_autotest_16/')
 
